@@ -10,6 +10,22 @@
       "StackName": "amplify-reactamplified2-dev-85431",
       "StackId": "arn:aws:cloudformation:us-west-2:199667997825:stack/amplify-reactamplified2-dev-85431/0379c1b0-e962-11eb-a570-0219a4edc433",
       "AmplifyAppId": "d3ms48c2dxdu9n"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3ms48c2dxdu9n",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "reactamplified28a5fe1b3": {
+          "userPoolId": "us-west-2_PAHG6sehw",
+          "userPoolName": "tmp_cognito_demo",
+          "webClientId": "3m06q2f2ik6rpng9shpblvmikj",
+          "nativeClientId": "3m06q2f2ik6rpng9shpblvmikj"
+        }
+      }
     }
   }
 }
